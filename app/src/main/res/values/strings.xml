@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimplePedometer</string>
+    <string name="name_steps">Steps</string>
+    <string name="num_start_steps">0</string>
+</resources>

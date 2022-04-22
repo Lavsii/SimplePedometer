@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_steps">Steps</string>
+    <string name="num_start_steps">0</string>
+</resources>
